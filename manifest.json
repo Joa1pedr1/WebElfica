@@ -417,7 +417,8 @@
     },
     {
       "src": "ios/120.png",
-      "sizes": "120x120"
+      "sizes": "120x120",
+      "purpose": "any maskable"
     },
     {
       "src": "ios/128.png",
